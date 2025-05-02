@@ -48,10 +48,8 @@ int main()
 	return 0;
 }
 ```
-
 ## OUTPUT :
 ![image](https://github.com/user-attachments/assets/e2882945-c4f4-4035-90cb-449d06be81d4)
-
 ![image](https://github.com/user-attachments/assets/d7784e7c-0c59-4fa3-8982-af39d15cd4da)
 
 
